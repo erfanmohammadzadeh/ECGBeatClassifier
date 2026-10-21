@@ -66,6 +66,5 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
-thirdparty/onnxruntime-win-x64-1.31.0/
 .qtcreator/
 build/
